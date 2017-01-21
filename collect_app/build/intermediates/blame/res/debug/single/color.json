@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/color/common_signin_btn_text_light.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.1.32/res/color/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.1.32/res/color/common_signin_btn_text_dark.xml"
+    }
+]

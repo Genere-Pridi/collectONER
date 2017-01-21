@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/xml/google_preferences.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/xml/google_preferences.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/xml/admin_preferences.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/xml/admin_preferences.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/xml/aggregate_preferences.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/xml/aggregate_preferences.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/xml/other_preferences.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/xml/other_preferences.xml"
+    }
+]

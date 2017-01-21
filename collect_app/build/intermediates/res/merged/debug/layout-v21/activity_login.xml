@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_login"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/onerGreen"
+    android:orientation="vertical"
+    tools:context="org.odk.collect.android.login.Login">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/onerGreen"
+        android:orientation="vertical"
+        tools:context="org.odk.collect.android.login.Login">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/titre"
+            android:textSize="13sp"
+            android:textColor="@color/onerWhite"
+            android:gravity="center"
+            android:text="@string/fao"
+            android:layout_gravity="center"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:src="@drawable/onerlogo"
+            android:layout_width="200dip"
+            android:layout_marginTop="13dp"
+            android:id="@+id/logo"
+            android:layout_gravity="center"
+            android:layout_height="200dip" />
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:background="@color/onerWhite"
+            android:id="@+id/cardView2">
+
+            <!-- Identifiant -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/onerWhite"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/utilisateur"
+                    android:layout_marginLeft="20dp"
+                    android:textColor="@drawable/black"
+                    android:textSize="20sp"
+                    />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="10dp"
+                        android:src="@drawable/key"
+                        android:contentDescription="@string/iconpers" />
+                    <EditText android:id="@+id/input_user"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="textEmailAddress"
+                        android:background="@color/onerWhite"
+                        android:layout_margin="10dp"
+                        android:textSize="20sp"
+                        android:hint="@string/identifiant"
+                        android:textStyle="italic"
+                        android:textColor="@color/onerGreen"
+                        android:gravity="top"
+                        android:textColorHint="@color/onerGreen"/>
+                </LinearLayout>
+
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@color/onerGreen"
+                    android:contentDescription="@string/ligne" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mot_de_passe"
+                    android:layout_marginLeft="20dp"
+                    android:textColor="@drawable/black"
+                    android:textSize="20sp"
+                    />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="10dp"
+                        android:src="@drawable/key"
+                        android:contentDescription="@string/iconpers" />
+                    <EditText android:id="@+id/input_password"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="textPassword"
+                        android:hint="@string/forpassan"
+                        android:textStyle="italic"
+                        android:textColor="@color/onerGreen"
+                        android:textSize="20sp"
+                        android:background="@color/onerWhite"
+                        android:layout_margin="10dp"
+                        android:gravity="top"
+                        android:textColorHint="@color/onerGreen"/>
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <Button
+            android:text="@string/valider"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/button_connect"
+            android:background="@color/onerWhite"
+            android:textColor="@drawable/black"
+            android:textStyle="bold"
+            android:elevation="2dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="20dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_margin="20dp">
+
+            <TextView
+                android:text="@string/conditions_d_utilisation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:id="@+id/condition"
+                android:textColor="@color/onerWhite"/>
+
+            <TextView
+                android:text="@string/aides"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:id="@+id/helpOner"
+                android:textColor="@color/onerWhite"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

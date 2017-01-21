@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/layers.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/layers.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/user_shape.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/user_shape.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_manage.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_menu_manage.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/polyline.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/polyline.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/key.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/key.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/polygon.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/polygon.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_preferences.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_menu_preferences.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_login.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_menu_login.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_mylocation.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_menu_mylocation.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/expander_ic_minimized.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/expander_ic_minimized.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_backward.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_menu_backward.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_clear_playlist.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_menu_clear_playlist.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/expander_ic_right.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/expander_ic_right.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_forward.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_menu_forward.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/expander_ic_maximized.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/expander_ic_maximized.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_play_circle.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_play_circle.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_refresh.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_start_conversation.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_menu_start_conversation.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_close_clear_cancel.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_menu_close_clear_cancel.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/distance.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/distance.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_maps_indicator_current_position.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_maps_indicator_current_position.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_goto.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_menu_goto.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_pause_circle.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_pause_circle.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/onerlogo.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/onerlogo.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_send.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_menu_send.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_mark.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_menu_mark.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_save.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-ldpi/ic_menu_save.png"
+    }
+]

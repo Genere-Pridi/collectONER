@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.1.32/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.1.32/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable/ic_menu_forward.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable/ic_menu_forward.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.1.32/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable/thumb.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable/thumb.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable/ic_menu_delete.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable/ic_menu_delete.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable/ic_menu_backward.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable/ic_menu_backward.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable/map_marker.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable/map_marker.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable/ic_menu_save.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable/ic_menu_save.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.1.32/res/drawable/common_signin_btn_text_light.xml"
+    }
+]

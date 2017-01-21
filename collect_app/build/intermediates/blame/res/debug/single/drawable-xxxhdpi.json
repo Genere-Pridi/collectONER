@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-xxxhdpi/onerlogo.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-xxxhdpi/onerlogo.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_person_pin_circle_black_36dp.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-xxxhdpi/ic_person_pin_circle_black_36dp.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-xxxhdpi/key.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-xxxhdpi/key.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_delete_black_36dp.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-xxxhdpi/ic_delete_black_36dp.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_add_location_black_36dp.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-xxxhdpi/ic_add_location_black_36dp.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_layers_black_36dp.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-xxxhdpi/ic_layers_black_36dp.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_flight_black_36dp.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-xxxhdpi/ic_flight_black_36dp.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_close_black_36dp.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-xxxhdpi/ic_close_black_36dp.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-xxxhdpi/user_shape.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-xxxhdpi/user_shape.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_pause_black_36dp.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-xxxhdpi/ic_pause_black_36dp.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_place_black_36dp.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-xxxhdpi/ic_place_black_36dp.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_save_black_36dp.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-xxxhdpi/ic_save_black_36dp.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_my_location_black_36dp.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-xxxhdpi/ic_my_location_black_36dp.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_perm_identity.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-xxxhdpi/ic_perm_identity.png"
+    }
+]
