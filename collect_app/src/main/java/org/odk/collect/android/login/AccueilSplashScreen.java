@@ -1,10 +1,10 @@
 package org.odk.collect.android.login;
 
-import android.content.Intent;
-import android.graphics.Color;
-import android.graphics.PixelFormat;
-import android.os.Bundle;
 import android.app.Activity;
+import android.content.Intent;
+import android.graphics.PixelFormat;
+import android.graphics.PorterDuff;
+import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
 import android.view.animation.Animation;
@@ -39,9 +39,10 @@ public class AccueilSplashScreen extends Activity {
         while(i<100){
 
             if(i%2 ==0){
-                progressBar.getIndeterminateDrawable().setColorFilter(0xFFFF0000, android.graphics.PorterDuff.Mode.MULTIPLY);
+                progressBar.getIndeterminateDrawable().setColorFilter(0xFF41A451, android.graphics.PorterDuff.Mode.MULTIPLY);
             }else
-                progressBar.getIndeterminateDrawable().setColorFilter(0xA4ED0000, android.graphics.PorterDuff.Mode.MULTIPLY);
+                progressBar.getIndeterminateDrawable().setColorFilter(0xFF41A451, PorterDuff.Mode.ADD);
+            progressBar.setProgress(i);
             i++;
 
         }

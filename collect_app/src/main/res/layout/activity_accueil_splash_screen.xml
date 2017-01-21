@@ -19,13 +19,27 @@
         android:layout_centerHorizontal="true"
         android:elevation="8dp" />
 
-    <ProgressBar
-        android:id="@+id/progressBar"
+
+
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:theme="@android:style/Widget.Holo.Light.ProgressBar"
-        android:layout_alignParentBottom="true"
+        android:id="@+id/titre"
+        android:textSize="13sp"
+        android:textColor="@color/onerGreen"
+        android:gravity="center"
+        android:text="@string/fao"
+        android:layout_gravity="center"
+        android:layout_below="@+id/logo"
+        android:layout_centerHorizontal="true" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titre"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="21dp" />
+        android:layout_marginTop="31dp"/>
 
 </RelativeLayout>
