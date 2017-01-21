@@ -96,6 +96,10 @@
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/data_manage_list.xml"
     },
     {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/activity_accueil_splash_screen.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/activity_accueil_splash_screen.xml"
+    },
+    {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/activity_open_source_licenses.xml",
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/activity_open_source_licenses.xml"
     },

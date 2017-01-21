@@ -6226,8 +6226,27 @@
                     "startLine": 430,
                     "startColumn": 4,
                     "startOffset": 29380,
+                    "endColumn": 41,
+                    "endOffset": 29417
+                },
+                "from": {
+                    "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 416,
+                        "startColumn": 4,
+                        "startOffset": 30647,
+                        "endColumn": 41,
+                        "endOffset": 30684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 29422,
                     "endColumn": 49,
-                    "endOffset": 29425
+                    "endOffset": 29467
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6242,11 +6261,11 @@
             },
             {
                 "to": {
-                    "startLine": 431,
+                    "startLine": 432,
                     "startColumn": 4,
-                    "startOffset": 29430,
+                    "startOffset": 29472,
                     "endColumn": 49,
-                    "endOffset": 29475
+                    "endOffset": 29517
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6261,11 +6280,11 @@
             },
             {
                 "to": {
-                    "startLine": 432,
+                    "startLine": 433,
                     "startColumn": 4,
-                    "startOffset": 29480,
+                    "startOffset": 29522,
                     "endColumn": 107,
-                    "endOffset": 29583
+                    "endOffset": 29625
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6280,11 +6299,11 @@
             },
             {
                 "to": {
-                    "startLine": 433,
+                    "startLine": 434,
                     "startColumn": 4,
-                    "startOffset": 29588,
+                    "startOffset": 29630,
                     "endColumn": 73,
-                    "endOffset": 29657
+                    "endOffset": 29699
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6299,11 +6318,11 @@
             },
             {
                 "to": {
-                    "startLine": 434,
+                    "startLine": 435,
                     "startColumn": 4,
-                    "startOffset": 29662,
+                    "startOffset": 29704,
                     "endColumn": 73,
-                    "endOffset": 29731
+                    "endOffset": 29773
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6318,11 +6337,11 @@
             },
             {
                 "to": {
-                    "startLine": 435,
+                    "startLine": 436,
                     "startColumn": 4,
-                    "startOffset": 29736,
+                    "startOffset": 29778,
                     "endColumn": 74,
-                    "endOffset": 29806
+                    "endOffset": 29848
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6337,11 +6356,11 @@
             },
             {
                 "to": {
-                    "startLine": 436,
+                    "startLine": 437,
                     "startColumn": 4,
-                    "startOffset": 29811,
+                    "startOffset": 29853,
                     "endColumn": 73,
-                    "endOffset": 29880
+                    "endOffset": 29922
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6356,11 +6375,11 @@
             },
             {
                 "to": {
-                    "startLine": 437,
+                    "startLine": 438,
                     "startColumn": 4,
-                    "startOffset": 29885,
+                    "startOffset": 29927,
                     "endColumn": 74,
-                    "endOffset": 29955
+                    "endOffset": 29997
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6375,11 +6394,11 @@
             },
             {
                 "to": {
-                    "startLine": 438,
+                    "startLine": 439,
                     "startColumn": 4,
-                    "startOffset": 29960,
+                    "startOffset": 30002,
                     "endColumn": 125,
-                    "endOffset": 30081
+                    "endOffset": 30123
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6394,11 +6413,11 @@
             },
             {
                 "to": {
-                    "startLine": 439,
+                    "startLine": 440,
                     "startColumn": 4,
-                    "startOffset": 30086,
+                    "startOffset": 30128,
                     "endColumn": 130,
-                    "endOffset": 30212
+                    "endOffset": 30254
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6413,11 +6432,11 @@
             },
             {
                 "to": {
-                    "startLine": 440,
+                    "startLine": 441,
                     "startColumn": 4,
-                    "startOffset": 30217,
+                    "startOffset": 30259,
                     "endColumn": 106,
-                    "endOffset": 30319
+                    "endOffset": 30361
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6432,11 +6451,11 @@
             },
             {
                 "to": {
-                    "startLine": 441,
+                    "startLine": 442,
                     "startColumn": 4,
-                    "startOffset": 30324,
+                    "startOffset": 30366,
                     "endColumn": 82,
-                    "endOffset": 30402
+                    "endOffset": 30444
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6451,11 +6470,11 @@
             },
             {
                 "to": {
-                    "startLine": 442,
+                    "startLine": 443,
                     "startColumn": 4,
-                    "startOffset": 30407,
+                    "startOffset": 30449,
                     "endColumn": 81,
-                    "endOffset": 30484
+                    "endOffset": 30526
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6470,11 +6489,11 @@
             },
             {
                 "to": {
-                    "startLine": 443,
+                    "startLine": 444,
                     "startColumn": 4,
-                    "startOffset": 30489,
+                    "startOffset": 30531,
                     "endColumn": 126,
-                    "endOffset": 30611
+                    "endOffset": 30653
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6489,11 +6508,11 @@
             },
             {
                 "to": {
-                    "startLine": 444,
+                    "startLine": 445,
                     "startColumn": 4,
-                    "startOffset": 30616,
+                    "startOffset": 30658,
                     "endColumn": 67,
-                    "endOffset": 30679
+                    "endOffset": 30721
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6508,11 +6527,11 @@
             },
             {
                 "to": {
-                    "startLine": 445,
+                    "startLine": 446,
                     "startColumn": 4,
-                    "startOffset": 30684,
+                    "startOffset": 30726,
                     "endColumn": 33,
-                    "endOffset": 30713
+                    "endOffset": 30755
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6527,11 +6546,11 @@
             },
             {
                 "to": {
-                    "startLine": 446,
+                    "startLine": 447,
                     "startColumn": 4,
-                    "startOffset": 30718,
+                    "startOffset": 30760,
                     "endColumn": 45,
-                    "endOffset": 30759
+                    "endOffset": 30801
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6546,11 +6565,11 @@
             },
             {
                 "to": {
-                    "startLine": 447,
+                    "startLine": 448,
                     "startColumn": 4,
-                    "startOffset": 30764,
+                    "startOffset": 30806,
                     "endColumn": 74,
-                    "endOffset": 30834
+                    "endOffset": 30876
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6565,11 +6584,11 @@
             },
             {
                 "to": {
-                    "startLine": 448,
+                    "startLine": 449,
                     "startColumn": 4,
-                    "startOffset": 30839,
+                    "startOffset": 30881,
                     "endColumn": 69,
-                    "endOffset": 30904
+                    "endOffset": 30946
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6584,11 +6603,11 @@
             },
             {
                 "to": {
-                    "startLine": 449,
+                    "startLine": 450,
                     "startColumn": 4,
-                    "startOffset": 30909,
+                    "startOffset": 30951,
                     "endColumn": 65,
-                    "endOffset": 30970
+                    "endOffset": 31012
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6603,11 +6622,11 @@
             },
             {
                 "to": {
-                    "startLine": 450,
+                    "startLine": 451,
                     "startColumn": 4,
-                    "startOffset": 30975,
+                    "startOffset": 31017,
                     "endColumn": 55,
-                    "endOffset": 31026
+                    "endOffset": 31068
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6622,11 +6641,11 @@
             },
             {
                 "to": {
-                    "startLine": 451,
+                    "startLine": 452,
                     "startColumn": 4,
-                    "startOffset": 31031,
+                    "startOffset": 31073,
                     "endColumn": 66,
-                    "endOffset": 31093
+                    "endOffset": 31135
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6641,11 +6660,11 @@
             },
             {
                 "to": {
-                    "startLine": 452,
+                    "startLine": 453,
                     "startColumn": 4,
-                    "startOffset": 31098,
+                    "startOffset": 31140,
                     "endColumn": 68,
-                    "endOffset": 31162
+                    "endOffset": 31204
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6660,11 +6679,11 @@
             },
             {
                 "to": {
-                    "startLine": 453,
+                    "startLine": 454,
                     "startColumn": 4,
-                    "startOffset": 31167,
+                    "startOffset": 31209,
                     "endColumn": 63,
-                    "endOffset": 31226
+                    "endOffset": 31268
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6679,11 +6698,11 @@
             },
             {
                 "to": {
-                    "startLine": 454,
+                    "startLine": 455,
                     "startColumn": 4,
-                    "startOffset": 31231,
+                    "startOffset": 31273,
                     "endColumn": 69,
-                    "endOffset": 31296
+                    "endOffset": 31338
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6698,11 +6717,11 @@
             },
             {
                 "to": {
-                    "startLine": 455,
+                    "startLine": 456,
                     "startColumn": 4,
-                    "startOffset": 31301,
+                    "startOffset": 31343,
                     "endColumn": 167,
-                    "endOffset": 31464
+                    "endOffset": 31506
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6717,11 +6736,11 @@
             },
             {
                 "to": {
-                    "startLine": 456,
+                    "startLine": 457,
                     "startColumn": 4,
-                    "startOffset": 31469,
+                    "startOffset": 31511,
                     "endColumn": 68,
-                    "endOffset": 31533
+                    "endOffset": 31575
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6736,11 +6755,11 @@
             },
             {
                 "to": {
-                    "startLine": 457,
+                    "startLine": 458,
                     "startColumn": 4,
-                    "startOffset": 31538,
+                    "startOffset": 31580,
                     "endColumn": 150,
-                    "endOffset": 31684
+                    "endOffset": 31726
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6755,11 +6774,11 @@
             },
             {
                 "to": {
-                    "startLine": 458,
+                    "startLine": 459,
                     "startColumn": 4,
-                    "startOffset": 31689,
+                    "startOffset": 31731,
                     "endColumn": 168,
-                    "endOffset": 31853
+                    "endOffset": 31895
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6774,11 +6793,11 @@
             },
             {
                 "to": {
-                    "startLine": 459,
+                    "startLine": 460,
                     "startColumn": 4,
-                    "startOffset": 31858,
+                    "startOffset": 31900,
                     "endColumn": 45,
-                    "endOffset": 31899
+                    "endOffset": 31941
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6793,11 +6812,11 @@
             },
             {
                 "to": {
-                    "startLine": 460,
+                    "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 31904,
+                    "startOffset": 31946,
                     "endColumn": 109,
-                    "endOffset": 32009
+                    "endOffset": 32051
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6812,11 +6831,11 @@
             },
             {
                 "to": {
-                    "startLine": 461,
+                    "startLine": 462,
                     "startColumn": 4,
-                    "startOffset": 32014,
+                    "startOffset": 32056,
                     "endColumn": 96,
-                    "endOffset": 32106
+                    "endOffset": 32148
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6831,11 +6850,11 @@
             },
             {
                 "to": {
-                    "startLine": 462,
+                    "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 32111,
+                    "startOffset": 32153,
                     "endColumn": 49,
-                    "endOffset": 32156
+                    "endOffset": 32198
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6850,11 +6869,11 @@
             },
             {
                 "to": {
-                    "startLine": 463,
+                    "startLine": 464,
                     "startColumn": 4,
-                    "startOffset": 32161,
+                    "startOffset": 32203,
                     "endColumn": 49,
-                    "endOffset": 32206
+                    "endOffset": 32248
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6869,11 +6888,11 @@
             },
             {
                 "to": {
-                    "startLine": 464,
+                    "startLine": 465,
                     "startColumn": 4,
-                    "startOffset": 32211,
+                    "startOffset": 32253,
                     "endColumn": 66,
-                    "endOffset": 32273
+                    "endOffset": 32315
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6888,11 +6907,11 @@
             },
             {
                 "to": {
-                    "startLine": 465,
+                    "startLine": 466,
                     "startColumn": 4,
-                    "startOffset": 32278,
+                    "startOffset": 32320,
                     "endColumn": 88,
-                    "endOffset": 32362
+                    "endOffset": 32404
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6907,11 +6926,11 @@
             },
             {
                 "to": {
-                    "startLine": 466,
+                    "startLine": 467,
                     "startColumn": 4,
-                    "startOffset": 32367,
+                    "startOffset": 32409,
                     "endColumn": 62,
-                    "endOffset": 32425
+                    "endOffset": 32467
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6926,11 +6945,11 @@
             },
             {
                 "to": {
-                    "startLine": 467,
+                    "startLine": 468,
                     "startColumn": 4,
-                    "startOffset": 32430,
+                    "startOffset": 32472,
                     "endColumn": 66,
-                    "endOffset": 32492
+                    "endOffset": 32534
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6945,11 +6964,11 @@
             },
             {
                 "to": {
-                    "startLine": 468,
+                    "startLine": 469,
                     "startColumn": 4,
-                    "startOffset": 32497,
+                    "startOffset": 32539,
                     "endColumn": 56,
-                    "endOffset": 32549
+                    "endOffset": 32591
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6964,11 +6983,11 @@
             },
             {
                 "to": {
-                    "startLine": 469,
+                    "startLine": 470,
                     "startColumn": 4,
-                    "startOffset": 32554,
+                    "startOffset": 32596,
                     "endColumn": 91,
-                    "endOffset": 32641
+                    "endOffset": 32683
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -6983,11 +7002,11 @@
             },
             {
                 "to": {
-                    "startLine": 470,
+                    "startLine": 471,
                     "startColumn": 4,
-                    "startOffset": 32646,
+                    "startOffset": 32688,
                     "endColumn": 66,
-                    "endOffset": 32708
+                    "endOffset": 32750
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7002,11 +7021,11 @@
             },
             {
                 "to": {
-                    "startLine": 471,
+                    "startLine": 472,
                     "startColumn": 4,
-                    "startOffset": 32713,
+                    "startOffset": 32755,
                     "endColumn": 58,
-                    "endOffset": 32767
+                    "endOffset": 32809
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7021,11 +7040,11 @@
             },
             {
                 "to": {
-                    "startLine": 472,
+                    "startLine": 473,
                     "startColumn": 4,
-                    "startOffset": 32772,
+                    "startOffset": 32814,
                     "endColumn": 45,
-                    "endOffset": 32813
+                    "endOffset": 32855
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7040,11 +7059,11 @@
             },
             {
                 "to": {
-                    "startLine": 473,
+                    "startLine": 474,
                     "startColumn": 4,
-                    "startOffset": 32818,
+                    "startOffset": 32860,
                     "endColumn": 85,
-                    "endOffset": 32899
+                    "endOffset": 32941
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/untranslated.xml",
@@ -7059,11 +7078,11 @@
             },
             {
                 "to": {
-                    "startLine": 474,
+                    "startLine": 475,
                     "startColumn": 4,
-                    "startOffset": 32904,
+                    "startOffset": 32946,
                     "endColumn": 81,
-                    "endOffset": 32981
+                    "endOffset": 33023
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/untranslated.xml",
@@ -7078,11 +7097,11 @@
             },
             {
                 "to": {
-                    "startLine": 475,
+                    "startLine": 476,
                     "startColumn": 4,
-                    "startOffset": 32986,
+                    "startOffset": 33028,
                     "endColumn": 78,
-                    "endOffset": 33060
+                    "endOffset": 33102
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/untranslated.xml",
@@ -7097,11 +7116,11 @@
             },
             {
                 "to": {
-                    "startLine": 476,
+                    "startLine": 477,
                     "startColumn": 4,
-                    "startOffset": 33065,
+                    "startOffset": 33107,
                     "endColumn": 73,
-                    "endOffset": 33134
+                    "endOffset": 33176
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7116,11 +7135,11 @@
             },
             {
                 "to": {
-                    "startLine": 477,
+                    "startLine": 478,
                     "startColumn": 4,
-                    "startOffset": 33139,
+                    "startOffset": 33181,
                     "endColumn": 91,
-                    "endOffset": 33226
+                    "endOffset": 33268
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7135,11 +7154,11 @@
             },
             {
                 "to": {
-                    "startLine": 478,
+                    "startLine": 479,
                     "startColumn": 4,
-                    "startOffset": 33231,
+                    "startOffset": 33273,
                     "endColumn": 52,
-                    "endOffset": 33279
+                    "endOffset": 33321
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7154,11 +7173,11 @@
             },
             {
                 "to": {
-                    "startLine": 479,
+                    "startLine": 480,
                     "startColumn": 4,
-                    "startOffset": 33284,
+                    "startOffset": 33326,
                     "endColumn": 57,
-                    "endOffset": 33337
+                    "endOffset": 33379
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7173,11 +7192,11 @@
             },
             {
                 "to": {
-                    "startLine": 480,
+                    "startLine": 481,
                     "startColumn": 4,
-                    "startOffset": 33342,
+                    "startOffset": 33384,
                     "endColumn": 58,
-                    "endOffset": 33396
+                    "endOffset": 33438
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7192,11 +7211,11 @@
             },
             {
                 "to": {
-                    "startLine": 481,
+                    "startLine": 482,
                     "startColumn": 4,
-                    "startOffset": 33401,
+                    "startOffset": 33443,
                     "endColumn": 43,
-                    "endOffset": 33440
+                    "endOffset": 33482
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7211,11 +7230,11 @@
             },
             {
                 "to": {
-                    "startLine": 482,
+                    "startLine": 483,
                     "startColumn": 4,
-                    "startOffset": 33445,
+                    "startOffset": 33487,
                     "endColumn": 59,
-                    "endOffset": 33500
+                    "endOffset": 33542
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7230,11 +7249,11 @@
             },
             {
                 "to": {
-                    "startLine": 483,
+                    "startLine": 484,
                     "startColumn": 4,
-                    "startOffset": 33505,
+                    "startOffset": 33547,
                     "endColumn": 59,
-                    "endOffset": 33560
+                    "endOffset": 33602
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7249,11 +7268,11 @@
             },
             {
                 "to": {
-                    "startLine": 484,
+                    "startLine": 485,
                     "startColumn": 4,
-                    "startOffset": 33565,
+                    "startOffset": 33607,
                     "endColumn": 61,
-                    "endOffset": 33622
+                    "endOffset": 33664
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7268,11 +7287,11 @@
             },
             {
                 "to": {
-                    "startLine": 485,
+                    "startLine": 486,
                     "startColumn": 4,
-                    "startOffset": 33627,
+                    "startOffset": 33669,
                     "endColumn": 83,
-                    "endOffset": 33706
+                    "endOffset": 33748
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7287,11 +7306,11 @@
             },
             {
                 "to": {
-                    "startLine": 486,
+                    "startLine": 487,
                     "startColumn": 4,
-                    "startOffset": 33711,
+                    "startOffset": 33753,
                     "endColumn": 45,
-                    "endOffset": 33752
+                    "endOffset": 33794
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7306,11 +7325,11 @@
             },
             {
                 "to": {
-                    "startLine": 487,
+                    "startLine": 488,
                     "startColumn": 4,
-                    "startOffset": 33757,
+                    "startOffset": 33799,
                     "endColumn": 55,
-                    "endOffset": 33808
+                    "endOffset": 33850
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7325,11 +7344,11 @@
             },
             {
                 "to": {
-                    "startLine": 488,
+                    "startLine": 489,
                     "startColumn": 4,
-                    "startOffset": 33813,
+                    "startOffset": 33855,
                     "endColumn": 67,
-                    "endOffset": 33876
+                    "endOffset": 33918
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7344,11 +7363,11 @@
             },
             {
                 "to": {
-                    "startLine": 489,
+                    "startLine": 490,
                     "startColumn": 4,
-                    "startOffset": 33881,
+                    "startOffset": 33923,
                     "endColumn": 90,
-                    "endOffset": 33967
+                    "endOffset": 34009
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7363,11 +7382,11 @@
             },
             {
                 "to": {
-                    "startLine": 490,
+                    "startLine": 491,
                     "startColumn": 4,
-                    "startOffset": 33972,
+                    "startOffset": 34014,
                     "endColumn": 88,
-                    "endOffset": 34056
+                    "endOffset": 34098
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7382,11 +7401,11 @@
             },
             {
                 "to": {
-                    "startLine": 491,
+                    "startLine": 492,
                     "startColumn": 4,
-                    "startOffset": 34061,
+                    "startOffset": 34103,
                     "endColumn": 47,
-                    "endOffset": 34104
+                    "endOffset": 34146
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7401,11 +7420,11 @@
             },
             {
                 "to": {
-                    "startLine": 492,
+                    "startLine": 493,
                     "startColumn": 4,
-                    "startOffset": 34109,
+                    "startOffset": 34151,
                     "endColumn": 54,
-                    "endOffset": 34159
+                    "endOffset": 34201
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7420,11 +7439,11 @@
             },
             {
                 "to": {
-                    "startLine": 493,
+                    "startLine": 494,
                     "startColumn": 4,
-                    "startOffset": 34164,
+                    "startOffset": 34206,
                     "endColumn": 57,
-                    "endOffset": 34217
+                    "endOffset": 34259
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7439,11 +7458,11 @@
             },
             {
                 "to": {
-                    "startLine": 494,
+                    "startLine": 495,
                     "startColumn": 4,
-                    "startOffset": 34222,
+                    "startOffset": 34264,
                     "endColumn": 71,
-                    "endOffset": 34289
+                    "endOffset": 34331
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7458,11 +7477,11 @@
             },
             {
                 "to": {
-                    "startLine": 495,
+                    "startLine": 496,
                     "startColumn": 4,
-                    "startOffset": 34294,
+                    "startOffset": 34336,
                     "endColumn": 81,
-                    "endOffset": 34371
+                    "endOffset": 34413
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7477,11 +7496,11 @@
             },
             {
                 "to": {
-                    "startLine": 496,
+                    "startLine": 497,
                     "startColumn": 4,
-                    "startOffset": 34376,
+                    "startOffset": 34418,
                     "endColumn": 55,
-                    "endOffset": 34427
+                    "endOffset": 34469
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7496,11 +7515,11 @@
             },
             {
                 "to": {
-                    "startLine": 497,
+                    "startLine": 498,
                     "startColumn": 4,
-                    "startOffset": 34432,
+                    "startOffset": 34474,
                     "endColumn": 46,
-                    "endOffset": 34474
+                    "endOffset": 34516
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7515,11 +7534,11 @@
             },
             {
                 "to": {
-                    "startLine": 498,
+                    "startLine": 499,
                     "startColumn": 4,
-                    "startOffset": 34479,
+                    "startOffset": 34521,
                     "endColumn": 52,
-                    "endOffset": 34527
+                    "endOffset": 34569
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7534,11 +7553,11 @@
             },
             {
                 "to": {
-                    "startLine": 499,
+                    "startLine": 500,
                     "startColumn": 4,
-                    "startOffset": 34532,
+                    "startOffset": 34574,
                     "endColumn": 76,
-                    "endOffset": 34604
+                    "endOffset": 34646
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7553,11 +7572,11 @@
             },
             {
                 "to": {
-                    "startLine": 500,
+                    "startLine": 501,
                     "startColumn": 4,
-                    "startOffset": 34609,
+                    "startOffset": 34651,
                     "endColumn": 66,
-                    "endOffset": 34671
+                    "endOffset": 34713
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7572,11 +7591,11 @@
             },
             {
                 "to": {
-                    "startLine": 501,
+                    "startLine": 502,
                     "startColumn": 4,
-                    "startOffset": 34676,
+                    "startOffset": 34718,
                     "endColumn": 54,
-                    "endOffset": 34726
+                    "endOffset": 34768
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7591,11 +7610,11 @@
             },
             {
                 "to": {
-                    "startLine": 502,
+                    "startLine": 503,
                     "startColumn": 4,
-                    "startOffset": 34731,
+                    "startOffset": 34773,
                     "endColumn": 93,
-                    "endOffset": 34820
+                    "endOffset": 34862
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7610,11 +7629,11 @@
             },
             {
                 "to": {
-                    "startLine": 503,
+                    "startLine": 504,
                     "startColumn": 4,
-                    "startOffset": 34825,
+                    "startOffset": 34867,
                     "endColumn": 84,
-                    "endOffset": 34905
+                    "endOffset": 34947
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7629,11 +7648,11 @@
             },
             {
                 "to": {
-                    "startLine": 504,
+                    "startLine": 505,
                     "startColumn": 4,
-                    "startOffset": 34910,
+                    "startOffset": 34952,
                     "endColumn": 51,
-                    "endOffset": 34957
+                    "endOffset": 34999
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7648,11 +7667,11 @@
             },
             {
                 "to": {
-                    "startLine": 505,
+                    "startLine": 506,
                     "startColumn": 4,
-                    "startOffset": 34962,
+                    "startOffset": 35004,
                     "endColumn": 130,
-                    "endOffset": 35088
+                    "endOffset": 35130
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7667,11 +7686,11 @@
             },
             {
                 "to": {
-                    "startLine": 506,
+                    "startLine": 507,
                     "startColumn": 4,
-                    "startOffset": 35093,
+                    "startOffset": 35135,
                     "endColumn": 69,
-                    "endOffset": 35158
+                    "endOffset": 35200
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7686,11 +7705,11 @@
             },
             {
                 "to": {
-                    "startLine": 507,
+                    "startLine": 508,
                     "startColumn": 4,
-                    "startOffset": 35163,
+                    "startOffset": 35205,
                     "endColumn": 55,
-                    "endOffset": 35214
+                    "endOffset": 35256
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7705,11 +7724,11 @@
             },
             {
                 "to": {
-                    "startLine": 508,
+                    "startLine": 509,
                     "startColumn": 4,
-                    "startOffset": 35219,
+                    "startOffset": 35261,
                     "endColumn": 69,
-                    "endOffset": 35284
+                    "endOffset": 35326
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7724,11 +7743,11 @@
             },
             {
                 "to": {
-                    "startLine": 509,
+                    "startLine": 510,
                     "startColumn": 4,
-                    "startOffset": 35289,
+                    "startOffset": 35331,
                     "endColumn": 71,
-                    "endOffset": 35356
+                    "endOffset": 35398
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7743,11 +7762,11 @@
             },
             {
                 "to": {
-                    "startLine": 510,
+                    "startLine": 511,
                     "startColumn": 4,
-                    "startOffset": 35361,
+                    "startOffset": 35403,
                     "endColumn": 69,
-                    "endOffset": 35426
+                    "endOffset": 35468
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7762,11 +7781,11 @@
             },
             {
                 "to": {
-                    "startLine": 511,
+                    "startLine": 512,
                     "startColumn": 4,
-                    "startOffset": 35431,
+                    "startOffset": 35473,
                     "endColumn": 56,
-                    "endOffset": 35483
+                    "endOffset": 35525
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7781,11 +7800,11 @@
             },
             {
                 "to": {
-                    "startLine": 512,
+                    "startLine": 513,
                     "startColumn": 4,
-                    "startOffset": 35488,
+                    "startOffset": 35530,
                     "endColumn": 47,
-                    "endOffset": 35531
+                    "endOffset": 35573
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7800,11 +7819,11 @@
             },
             {
                 "to": {
-                    "startLine": 513,
+                    "startLine": 514,
                     "startColumn": 4,
-                    "startOffset": 35536,
+                    "startOffset": 35578,
                     "endColumn": 71,
-                    "endOffset": 35603
+                    "endOffset": 35645
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7819,11 +7838,11 @@
             },
             {
                 "to": {
-                    "startLine": 514,
+                    "startLine": 515,
                     "startColumn": 4,
-                    "startOffset": 35608,
+                    "startOffset": 35650,
                     "endColumn": 57,
-                    "endOffset": 35661
+                    "endOffset": 35703
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7838,11 +7857,11 @@
             },
             {
                 "to": {
-                    "startLine": 515,
+                    "startLine": 516,
                     "startColumn": 4,
-                    "startOffset": 35666,
+                    "startOffset": 35708,
                     "endColumn": 69,
-                    "endOffset": 35731
+                    "endOffset": 35773
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7857,11 +7876,11 @@
             },
             {
                 "to": {
-                    "startLine": 516,
+                    "startLine": 517,
                     "startColumn": 4,
-                    "startOffset": 35736,
+                    "startOffset": 35778,
                     "endColumn": 94,
-                    "endOffset": 35826
+                    "endOffset": 35868
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7876,11 +7895,11 @@
             },
             {
                 "to": {
-                    "startLine": 517,
+                    "startLine": 518,
                     "startColumn": 4,
-                    "startOffset": 35831,
+                    "startOffset": 35873,
                     "endColumn": 60,
-                    "endOffset": 35887
+                    "endOffset": 35929
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7895,11 +7914,11 @@
             },
             {
                 "to": {
-                    "startLine": 518,
+                    "startLine": 519,
                     "startColumn": 4,
-                    "startOffset": 35892,
+                    "startOffset": 35934,
                     "endColumn": 111,
-                    "endOffset": 35999
+                    "endOffset": 36041
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7914,11 +7933,11 @@
             },
             {
                 "to": {
-                    "startLine": 519,
+                    "startLine": 520,
                     "startColumn": 4,
-                    "startOffset": 36004,
+                    "startOffset": 36046,
                     "endColumn": 70,
-                    "endOffset": 36070
+                    "endOffset": 36112
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7933,11 +7952,11 @@
             },
             {
                 "to": {
-                    "startLine": 520,
+                    "startLine": 521,
                     "startColumn": 4,
-                    "startOffset": 36075,
+                    "startOffset": 36117,
                     "endColumn": 91,
-                    "endOffset": 36162
+                    "endOffset": 36204
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7952,11 +7971,11 @@
             },
             {
                 "to": {
-                    "startLine": 521,
+                    "startLine": 522,
                     "startColumn": 4,
-                    "startOffset": 36167,
+                    "startOffset": 36209,
                     "endColumn": 102,
-                    "endOffset": 36265
+                    "endOffset": 36307
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7971,11 +7990,11 @@
             },
             {
                 "to": {
-                    "startLine": 522,
+                    "startLine": 523,
                     "startColumn": 4,
-                    "startOffset": 36270,
+                    "startOffset": 36312,
                     "endColumn": 85,
-                    "endOffset": 36351
+                    "endOffset": 36393
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -7990,11 +8009,11 @@
             },
             {
                 "to": {
-                    "startLine": 523,
+                    "startLine": 524,
                     "startColumn": 4,
-                    "startOffset": 36356,
+                    "startOffset": 36398,
                     "endColumn": 71,
-                    "endOffset": 36423
+                    "endOffset": 36465
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8009,11 +8028,11 @@
             },
             {
                 "to": {
-                    "startLine": 524,
+                    "startLine": 525,
                     "startColumn": 4,
-                    "startOffset": 36428,
+                    "startOffset": 36470,
                     "endColumn": 55,
-                    "endOffset": 36479
+                    "endOffset": 36521
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8028,11 +8047,11 @@
             },
             {
                 "to": {
-                    "startLine": 525,
+                    "startLine": 526,
                     "startColumn": 4,
-                    "startOffset": 36484,
+                    "startOffset": 36526,
                     "endColumn": 62,
-                    "endOffset": 36542
+                    "endOffset": 36584
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8047,11 +8066,11 @@
             },
             {
                 "to": {
-                    "startLine": 526,
+                    "startLine": 527,
                     "startColumn": 4,
-                    "startOffset": 36547,
+                    "startOffset": 36589,
                     "endColumn": 79,
-                    "endOffset": 36622
+                    "endOffset": 36664
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8066,11 +8085,11 @@
             },
             {
                 "to": {
-                    "startLine": 527,
+                    "startLine": 528,
                     "startColumn": 4,
-                    "startOffset": 36627,
+                    "startOffset": 36669,
                     "endColumn": 42,
-                    "endOffset": 36665
+                    "endOffset": 36707
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8085,11 +8104,11 @@
             },
             {
                 "to": {
-                    "startLine": 528,
+                    "startLine": 529,
                     "startColumn": 4,
-                    "startOffset": 36670,
+                    "startOffset": 36712,
                     "endColumn": 47,
-                    "endOffset": 36713
+                    "endOffset": 36755
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8104,11 +8123,11 @@
             },
             {
                 "to": {
-                    "startLine": 529,
+                    "startLine": 530,
                     "startColumn": 4,
-                    "startOffset": 36718,
+                    "startOffset": 36760,
                     "endColumn": 191,
-                    "endOffset": 36905
+                    "endOffset": 36947
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8123,11 +8142,11 @@
             },
             {
                 "to": {
-                    "startLine": 530,
+                    "startLine": 531,
                     "startColumn": 4,
-                    "startOffset": 36910,
+                    "startOffset": 36952,
                     "endColumn": 129,
-                    "endOffset": 37035
+                    "endOffset": 37077
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8142,11 +8161,11 @@
             },
             {
                 "to": {
-                    "startLine": 531,
+                    "startLine": 532,
                     "startColumn": 4,
-                    "startOffset": 37040,
+                    "startOffset": 37082,
                     "endColumn": 55,
-                    "endOffset": 37091
+                    "endOffset": 37133
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8161,11 +8180,11 @@
             },
             {
                 "to": {
-                    "startLine": 532,
+                    "startLine": 533,
                     "startColumn": 4,
-                    "startOffset": 37096,
+                    "startOffset": 37138,
                     "endColumn": 65,
-                    "endOffset": 37157
+                    "endOffset": 37199
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8180,11 +8199,11 @@
             },
             {
                 "to": {
-                    "startLine": 533,
+                    "startLine": 534,
                     "startColumn": 4,
-                    "startOffset": 37162,
+                    "startOffset": 37204,
                     "endColumn": 61,
-                    "endOffset": 37219
+                    "endOffset": 37261
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8199,11 +8218,11 @@
             },
             {
                 "to": {
-                    "startLine": 534,
+                    "startLine": 535,
                     "startColumn": 4,
-                    "startOffset": 37224,
+                    "startOffset": 37266,
                     "endColumn": 81,
-                    "endOffset": 37301
+                    "endOffset": 37343
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8218,11 +8237,11 @@
             },
             {
                 "to": {
-                    "startLine": 535,
+                    "startLine": 536,
                     "startColumn": 4,
-                    "startOffset": 37306,
+                    "startOffset": 37348,
                     "endColumn": 58,
-                    "endOffset": 37360
+                    "endOffset": 37402
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8237,11 +8256,11 @@
             },
             {
                 "to": {
-                    "startLine": 536,
+                    "startLine": 537,
                     "startColumn": 4,
-                    "startOffset": 37365,
+                    "startOffset": 37407,
                     "endColumn": 77,
-                    "endOffset": 37438
+                    "endOffset": 37480
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8256,11 +8275,11 @@
             },
             {
                 "to": {
-                    "startLine": 537,
+                    "startLine": 538,
                     "startColumn": 4,
-                    "startOffset": 37443,
+                    "startOffset": 37485,
                     "endColumn": 63,
-                    "endOffset": 37502
+                    "endOffset": 37544
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8275,11 +8294,11 @@
             },
             {
                 "to": {
-                    "startLine": 538,
+                    "startLine": 539,
                     "startColumn": 4,
-                    "startOffset": 37507,
+                    "startOffset": 37549,
                     "endColumn": 56,
-                    "endOffset": 37559
+                    "endOffset": 37601
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8294,11 +8313,11 @@
             },
             {
                 "to": {
-                    "startLine": 539,
+                    "startLine": 540,
                     "startColumn": 4,
-                    "startOffset": 37564,
+                    "startOffset": 37606,
                     "endColumn": 61,
-                    "endOffset": 37621
+                    "endOffset": 37663
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8313,11 +8332,11 @@
             },
             {
                 "to": {
-                    "startLine": 540,
+                    "startLine": 541,
                     "startColumn": 4,
-                    "startOffset": 37626,
+                    "startOffset": 37668,
                     "endColumn": 39,
-                    "endOffset": 37661
+                    "endOffset": 37703
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8332,11 +8351,11 @@
             },
             {
                 "to": {
-                    "startLine": 541,
+                    "startLine": 542,
                     "startColumn": 4,
-                    "startOffset": 37666,
+                    "startOffset": 37708,
                     "endColumn": 43,
-                    "endOffset": 37705
+                    "endOffset": 37747
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8351,11 +8370,11 @@
             },
             {
                 "to": {
-                    "startLine": 542,
+                    "startLine": 543,
                     "startColumn": 4,
-                    "startOffset": 37710,
+                    "startOffset": 37752,
                     "endColumn": 58,
-                    "endOffset": 37764
+                    "endOffset": 37806
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8370,11 +8389,11 @@
             },
             {
                 "to": {
-                    "startLine": 543,
+                    "startLine": 544,
                     "startColumn": 4,
-                    "startOffset": 37769,
+                    "startOffset": 37811,
                     "endColumn": 43,
-                    "endOffset": 37808
+                    "endOffset": 37850
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8389,11 +8408,11 @@
             },
             {
                 "to": {
-                    "startLine": 544,
+                    "startLine": 545,
                     "startColumn": 4,
-                    "startOffset": 37813,
+                    "startOffset": 37855,
                     "endColumn": 88,
-                    "endOffset": 37897
+                    "endOffset": 37939
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8408,11 +8427,11 @@
             },
             {
                 "to": {
-                    "startLine": 545,
+                    "startLine": 546,
                     "startColumn": 4,
-                    "startOffset": 37902,
+                    "startOffset": 37944,
                     "endColumn": 81,
-                    "endOffset": 37979
+                    "endOffset": 38021
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8427,11 +8446,11 @@
             },
             {
                 "to": {
-                    "startLine": 546,
+                    "startLine": 547,
                     "startColumn": 4,
-                    "startOffset": 37984,
+                    "startOffset": 38026,
                     "endColumn": 84,
-                    "endOffset": 38064
+                    "endOffset": 38106
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8446,11 +8465,11 @@
             },
             {
                 "to": {
-                    "startLine": 547,
+                    "startLine": 548,
                     "startColumn": 4,
-                    "startOffset": 38069,
+                    "startOffset": 38111,
                     "endColumn": 88,
-                    "endOffset": 38153
+                    "endOffset": 38195
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8465,11 +8484,11 @@
             },
             {
                 "to": {
-                    "startLine": 548,
+                    "startLine": 549,
                     "startColumn": 4,
-                    "startOffset": 38158,
+                    "startOffset": 38200,
                     "endColumn": 249,
-                    "endOffset": 38403
+                    "endOffset": 38445
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8484,11 +8503,11 @@
             },
             {
                 "to": {
-                    "startLine": 549,
+                    "startLine": 550,
                     "startColumn": 4,
-                    "startOffset": 38408,
+                    "startOffset": 38450,
                     "endColumn": 77,
-                    "endOffset": 38481
+                    "endOffset": 38523
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8503,11 +8522,11 @@
             },
             {
                 "to": {
-                    "startLine": 550,
+                    "startLine": 551,
                     "startColumn": 4,
-                    "startOffset": 38486,
+                    "startOffset": 38528,
                     "endColumn": 77,
-                    "endOffset": 38559
+                    "endOffset": 38601
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8522,11 +8541,11 @@
             },
             {
                 "to": {
-                    "startLine": 551,
+                    "startLine": 552,
                     "startColumn": 4,
-                    "startOffset": 38564,
+                    "startOffset": 38606,
                     "endColumn": 83,
-                    "endOffset": 38643
+                    "endOffset": 38685
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8541,11 +8560,11 @@
             },
             {
                 "to": {
-                    "startLine": 552,
+                    "startLine": 553,
                     "startColumn": 4,
-                    "startOffset": 38648,
+                    "startOffset": 38690,
                     "endColumn": 75,
-                    "endOffset": 38719
+                    "endOffset": 38761
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8560,11 +8579,11 @@
             },
             {
                 "to": {
-                    "startLine": 553,
+                    "startLine": 554,
                     "startColumn": 4,
-                    "startOffset": 38724,
+                    "startOffset": 38766,
                     "endColumn": 80,
-                    "endOffset": 38800
+                    "endOffset": 38842
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8579,11 +8598,11 @@
             },
             {
                 "to": {
-                    "startLine": 554,
+                    "startLine": 555,
                     "startColumn": 4,
-                    "startOffset": 38805,
+                    "startOffset": 38847,
                     "endColumn": 167,
-                    "endOffset": 38968
+                    "endOffset": 39010
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8598,11 +8617,11 @@
             },
             {
                 "to": {
-                    "startLine": 555,
+                    "startLine": 556,
                     "startColumn": 4,
-                    "startOffset": 38973,
+                    "startOffset": 39015,
                     "endColumn": 75,
-                    "endOffset": 39044
+                    "endOffset": 39086
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8617,11 +8636,11 @@
             },
             {
                 "to": {
-                    "startLine": 556,
+                    "startLine": 557,
                     "startColumn": 4,
-                    "startOffset": 39049,
+                    "startOffset": 39091,
                     "endColumn": 134,
-                    "endOffset": 39179
+                    "endOffset": 39221
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8636,11 +8655,11 @@
             },
             {
                 "to": {
-                    "startLine": 557,
+                    "startLine": 558,
                     "startColumn": 4,
-                    "startOffset": 39184,
+                    "startOffset": 39226,
                     "endColumn": 66,
-                    "endOffset": 39246
+                    "endOffset": 39288
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8655,11 +8674,11 @@
             },
             {
                 "to": {
-                    "startLine": 558,
+                    "startLine": 559,
                     "startColumn": 4,
-                    "startOffset": 39251,
+                    "startOffset": 39293,
                     "endColumn": 43,
-                    "endOffset": 39290
+                    "endOffset": 39332
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8674,11 +8693,30 @@
             },
             {
                 "to": {
-                    "startLine": 559,
+                    "startLine": 560,
                     "startColumn": 4,
-                    "startOffset": 39295,
+                    "startOffset": 39337,
+                    "endColumn": 84,
+                    "endOffset": 39417
+                },
+                "from": {
+                    "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 415,
+                        "startColumn": 4,
+                        "startOffset": 30562,
+                        "endColumn": 84,
+                        "endOffset": 30642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 561,
+                    "startColumn": 4,
+                    "startOffset": 39422,
                     "endColumn": 54,
-                    "endOffset": 39345
+                    "endOffset": 39472
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8693,11 +8731,11 @@
             },
             {
                 "to": {
-                    "startLine": 560,
+                    "startLine": 562,
                     "startColumn": 4,
-                    "startOffset": 39350,
+                    "startOffset": 39477,
                     "endColumn": 54,
-                    "endOffset": 39400
+                    "endOffset": 39527
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8712,11 +8750,11 @@
             },
             {
                 "to": {
-                    "startLine": 561,
+                    "startLine": 563,
                     "startColumn": 4,
-                    "startOffset": 39405,
+                    "startOffset": 39532,
                     "endColumn": 56,
-                    "endOffset": 39457
+                    "endOffset": 39584
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8731,11 +8769,11 @@
             },
             {
                 "to": {
-                    "startLine": 562,
+                    "startLine": 564,
                     "startColumn": 4,
-                    "startOffset": 39462,
+                    "startOffset": 39589,
                     "endColumn": 57,
-                    "endOffset": 39515
+                    "endOffset": 39642
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8750,11 +8788,11 @@
             },
             {
                 "to": {
-                    "startLine": 563,
+                    "startLine": 565,
                     "startColumn": 4,
-                    "startOffset": 39520,
+                    "startOffset": 39647,
                     "endColumn": 55,
-                    "endOffset": 39571
+                    "endOffset": 39698
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8769,11 +8807,11 @@
             },
             {
                 "to": {
-                    "startLine": 564,
+                    "startLine": 566,
                     "startColumn": 4,
-                    "startOffset": 39576,
+                    "startOffset": 39703,
                     "endColumn": 57,
-                    "endOffset": 39629
+                    "endOffset": 39756
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8788,11 +8826,11 @@
             },
             {
                 "to": {
-                    "startLine": 565,
+                    "startLine": 567,
                     "startColumn": 4,
-                    "startOffset": 39634,
+                    "startOffset": 39761,
                     "endColumn": 61,
-                    "endOffset": 39691
+                    "endOffset": 39818
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8807,11 +8845,11 @@
             },
             {
                 "to": {
-                    "startLine": 566,
+                    "startLine": 568,
                     "startColumn": 4,
-                    "startOffset": 39696,
+                    "startOffset": 39823,
                     "endColumn": 84,
-                    "endOffset": 39776
+                    "endOffset": 39903
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8826,11 +8864,11 @@
             },
             {
                 "to": {
-                    "startLine": 567,
+                    "startLine": 569,
                     "startColumn": 4,
-                    "startOffset": 39781,
+                    "startOffset": 39908,
                     "endColumn": 82,
-                    "endOffset": 39859
+                    "endOffset": 39986
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8845,11 +8883,11 @@
             },
             {
                 "to": {
-                    "startLine": 568,
+                    "startLine": 570,
                     "startColumn": 4,
-                    "startOffset": 39864,
+                    "startOffset": 39991,
                     "endColumn": 90,
-                    "endOffset": 39950
+                    "endOffset": 40077
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8864,11 +8902,11 @@
             },
             {
                 "to": {
-                    "startLine": 569,
+                    "startLine": 571,
                     "startColumn": 4,
-                    "startOffset": 39955,
+                    "startOffset": 40082,
                     "endColumn": 45,
-                    "endOffset": 39996
+                    "endOffset": 40123
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8883,11 +8921,11 @@
             },
             {
                 "to": {
-                    "startLine": 570,
+                    "startLine": 572,
                     "startColumn": 4,
-                    "startOffset": 40001,
+                    "startOffset": 40128,
                     "endColumn": 109,
-                    "endOffset": 40106
+                    "endOffset": 40233
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8902,11 +8940,11 @@
             },
             {
                 "to": {
-                    "startLine": 571,
+                    "startLine": 573,
                     "startColumn": 4,
-                    "startOffset": 40111,
+                    "startOffset": 40238,
                     "endColumn": 51,
-                    "endOffset": 40158
+                    "endOffset": 40285
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8921,11 +8959,11 @@
             },
             {
                 "to": {
-                    "startLine": 572,
+                    "startLine": 574,
                     "startColumn": 4,
-                    "startOffset": 40163,
+                    "startOffset": 40290,
                     "endColumn": 43,
-                    "endOffset": 40202
+                    "endOffset": 40329
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8940,11 +8978,11 @@
             },
             {
                 "to": {
-                    "startLine": 573,
+                    "startLine": 575,
                     "startColumn": 4,
-                    "startOffset": 40207,
+                    "startOffset": 40334,
                     "endColumn": 69,
-                    "endOffset": 40272
+                    "endOffset": 40399
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8959,11 +8997,11 @@
             },
             {
                 "to": {
-                    "startLine": 574,
+                    "startLine": 576,
                     "startColumn": 4,
-                    "startOffset": 40277,
+                    "startOffset": 40404,
                     "endColumn": 44,
-                    "endOffset": 40317
+                    "endOffset": 40444
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8978,11 +9016,11 @@
             },
             {
                 "to": {
-                    "startLine": 575,
+                    "startLine": 577,
                     "startColumn": 4,
-                    "startOffset": 40322,
+                    "startOffset": 40449,
                     "endColumn": 72,
-                    "endOffset": 40390
+                    "endOffset": 40517
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -8997,11 +9035,11 @@
             },
             {
                 "to": {
-                    "startLine": 576,
+                    "startLine": 578,
                     "startColumn": 4,
-                    "startOffset": 40395,
+                    "startOffset": 40522,
                     "endColumn": 55,
-                    "endOffset": 40446
+                    "endOffset": 40573
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -9016,11 +9054,11 @@
             },
             {
                 "to": {
-                    "startLine": 577,
+                    "startLine": 579,
                     "startColumn": 4,
-                    "startOffset": 40451,
+                    "startOffset": 40578,
                     "endColumn": 93,
-                    "endOffset": 40540
+                    "endOffset": 40667
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -9035,11 +9073,11 @@
             },
             {
                 "to": {
-                    "startLine": 578,
+                    "startLine": 580,
                     "startColumn": 4,
-                    "startOffset": 40545,
+                    "startOffset": 40672,
                     "endColumn": 65,
-                    "endOffset": 40606
+                    "endOffset": 40733
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -9054,11 +9092,11 @@
             },
             {
                 "to": {
-                    "startLine": 579,
+                    "startLine": 581,
                     "startColumn": 4,
-                    "startOffset": 40611,
+                    "startOffset": 40738,
                     "endColumn": 69,
-                    "endOffset": 40676
+                    "endOffset": 40803
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -9073,11 +9111,11 @@
             },
             {
                 "to": {
-                    "startLine": 580,
+                    "startLine": 582,
                     "startColumn": 4,
-                    "startOffset": 40681,
+                    "startOffset": 40808,
                     "endColumn": 52,
-                    "endOffset": 40729
+                    "endOffset": 40856
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/strings.xml",
@@ -9092,12 +9130,12 @@
             },
             {
                 "to": {
-                    "startLine": 581,
+                    "startLine": 583,
                     "startColumn": 4,
-                    "startOffset": 40734,
-                    "endLine": 587,
+                    "startOffset": 40861,
+                    "endLine": 589,
                     "endColumn": 12,
-                    "endOffset": 41143
+                    "endOffset": 41270
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/res/values/values.xml",
@@ -9113,12 +9151,12 @@
             },
             {
                 "to": {
-                    "startLine": 588,
+                    "startLine": 590,
                     "startColumn": 4,
-                    "startOffset": 41148,
-                    "endLine": 589,
+                    "startOffset": 41275,
+                    "endLine": 591,
                     "endColumn": 12,
-                    "endOffset": 41207
+                    "endOffset": 41334
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/res/values/values.xml",
@@ -9134,12 +9172,12 @@
             },
             {
                 "to": {
-                    "startLine": 590,
+                    "startLine": 592,
                     "startColumn": 4,
-                    "startOffset": 41212,
-                    "endLine": 592,
+                    "startOffset": 41339,
+                    "endLine": 594,
                     "endColumn": 12,
-                    "endOffset": 41333
+                    "endOffset": 41460
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/res/values/values.xml",
@@ -9155,12 +9193,12 @@
             },
             {
                 "to": {
-                    "startLine": 593,
+                    "startLine": 595,
                     "startColumn": 4,
-                    "startOffset": 41338,
-                    "endLine": 595,
+                    "startOffset": 41465,
+                    "endLine": 597,
                     "endColumn": 12,
-                    "endOffset": 41461
+                    "endOffset": 41588
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/res/values/values.xml",
@@ -9176,12 +9214,12 @@
             },
             {
                 "to": {
-                    "startLine": 596,
+                    "startLine": 598,
                     "startColumn": 4,
-                    "startOffset": 41466,
-                    "endLine": 602,
+                    "startOffset": 41593,
+                    "endLine": 604,
                     "endColumn": 9,
-                    "endOffset": 41854
+                    "endOffset": 41981
                 },
                 "from": {
                     "file": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/values/theme.xml",

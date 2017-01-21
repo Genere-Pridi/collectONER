@@ -428,6 +428,7 @@
     <string name="minutes">Minutes</string>
     <string name="modified_on_date_at_time">\'Modified on\' EEE, MMM dd, yyyy \'at\' HH:mm</string>
     <string name="mot_de_passe">Mot de passe</string>
+    <string name="name_app">ONER</string>
     <string name="navigation">Navigation</string>
     <string name="no_account">No account</string>
     <string name="no_app">The requested application is missing. Please manually enter the reading.</string>
@@ -557,6 +558,7 @@
     <string name="swipe_instructions">You are at the start of %s. Swipe the screen as shown below to go backward and forward.</string>
     <string name="swipe_navigation">Use horizontal swipes</string>
     <string name="terrain">Terrain</string>
+    <string name="title_activity_accueil_splash_screen">AccueilSplashScreen</string>
     <string name="title_activity_login">Login</string>
     <string name="toggle_selected">Toggle All</string>
     <string name="trigger">OK. Please continue.</string>

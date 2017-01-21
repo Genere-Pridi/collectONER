@@ -119,8 +119,11 @@ public class Login extends Activity {
             } else {
                 if(connexion.isConnected()) {
                     login(login, password);
-                }else
-                    Toast.makeText(Login.this,"Cet appareil n'êtes pas connecté à Internet",Toast.LENGTH_SHORT).show();
+                }else {
+                    Toast.makeText(Login.this, "Cet appareil n'êtes pas connecté à Internet", Toast.LENGTH_SHORT).show();
+                    progressDialog.dismiss();
+                }
+
 
             }
         }catch (Exception e){

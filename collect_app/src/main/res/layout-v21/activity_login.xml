@@ -69,7 +69,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:layout_marginLeft="10dp"
-                        android:src="@drawable/key"
+                        android:src="@drawable/user_shape"
                         android:contentDescription="@string/iconpers" />
                     <EditText android:id="@+id/input_user"
                         android:layout_width="match_parent"

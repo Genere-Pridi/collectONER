@@ -2,283 +2,292 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/joda-time-2.9.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9e46be514a4ed60bcfbaaba88a3c668cf30476ab">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/joda-time-2.9.3_dcf074dbc297c41ea217967690763aab5343c817.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.1.0_89dcd14b69c36cfb13720ff9f2c963273f32372e.jar" />
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_89dcd14b69c36cfb13720ff9f2c963273f32372e/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/google-oauth-client-1.20.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/google-oauth-client-1.20.0_ad69c690c20a13ba8a4171f8d284ffd94dc567af.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/home/generepridi/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_0fd23bbad6ae67d4509c1dabb86ebb29bf7b5926.jar" />
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_0fd23bbad6ae67d4509c1dabb86ebb29bf7b5926/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/google-api-services-drive-v2-rev113-1.17.0-rc.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b40f653e45c9cff6b4171c8d78f916ec6fb7e87">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/google-api-services-drive-v2-rev113-1.17.0-rc_9846edde0b3621d73bf3d442ec0a4d4b89cb31e1.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/google-http-client-1.20.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/google-http-client-1.20.0_647a096661a32fed116eb70267e1ad6a31eb7840.jar" />
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-1.20.0_647a096661a32fed116eb70267e1ad6a31eb7840/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3e2f5c17933eccd71abc01f6f3cb81fb6c1039ca">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/instant-run_eaebe38a9e1858eb35471a145e91e3c6071b62ad.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/google-http-client-gson-1.20.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9204765f39000f6109c927ac66c7963bf9c7df19">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/google-http-client-gson-1.20.0_550930d45a8b6ce941e27b2bd16e4b80e3d76a57.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/kxml2-2.3.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ccbc77a5fd907ef863c29f3596c6f54ffa4e9442">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/kxml2-2.3.0_ba9ffdebc395f6ddfd4253380e333ff4e2989a33.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/google-http-client-xml-1.20.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6f0331a9dfc5ea37fe76b8b5a19d00c8aaf5645e">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/google-http-client-xml-1.20.0_3731ce119a3f0122d6920d8441afa22a7d564c4d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/guava-11.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="35a3c69e19d72743cac83778aecbee68680f63eb">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/guava-11.0.2_993203c2ee3f795027e848d9a0113eb0dc52c050.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/commons-io-2.4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/commons-io-2.4_8a3f631b6cbf5be81b9b4ab2c327402079d1d113.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/javarosa-libraries-2016-04-21.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="eaebd8fdad2e537a108bb082562aec74edf85688">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/javarosa-libraries-2016-04-21_0f0fafb8c361dec902dd11745b01b455d75dbd8f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/slf4j-android-1.6.1-RC1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/slf4j-android-1.6.1-RC1_e4e55953b3bc38a42dc3b92ebc38428fb72cbe57.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/gson-2.6.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/gson-2.6.2_a4387b51b1ae0519f5e2e6191f041f275180347f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/generepridi/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_10b753ab697d13be51b74405080ba3a00abcf6d1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/gdata-spreadsheet-3.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8c6cdc5aa2ff9e7b6a3ab9bbfaaa23538caff4a6">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/gdata-spreadsheet-3.0_e82fa32b4552d2b9f439707308b3a7f37dce4a34.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/google-api-client-1.20.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/google-api-client-1.20.0_4c7c3516bc2583fd5284a6b7f2b4618b8beebefb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/google-api-client-xml-1.20.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="43feb4efd5e56df75aaff44789bda26d6ff4ba83">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/google-api-client-xml-1.20.0_651d0c013e450e028c805c8126ae6d006195f4b5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/generepridi/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/support-v4-19.0.1_32abbc0e16d32bedfd29decbbcfa70456eca5ee3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/osmbonuspack_v4.6.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a1c40158d90b10b6532f04dc1857f0d6709ec1e9">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/osmbonuspack_v4.6_90892650d8d1bec1af03500046b556ad2709ca84.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/google-http-client-android-1.20.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/google-http-client-android-1.20.0_25e3398da1b7d1653ca4a973659ad1e2c6f4f78c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/generepridi/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_66172fb8937575611becdc5f831563f6800b0a1c.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/osmdroid-android-4.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="f3a0c73a9ed04a5d0959789c53da9f08462bfcc2">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/osmdroid-android-4.2_205e46bb0a853b9d74681e08a061b6af7f551807.jar" />
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/osmdroid-android-4.2_205e46bb0a853b9d74681e08a061b6af7f551807/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/google-http-client-gson-1.20.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="db3ba956bf5443b10f07a4888ba402f87ecd416b">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_31b0dd86d96b45f6bccd9e2524d27ac164ae7f8e.jar" />
+        sha1="9204765f39000f6109c927ac66c7963bf9c7df19">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-gson-1.20.0_550930d45a8b6ce941e27b2bd16e4b80e3d76a57/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/slf4j-android-1.6.1-RC1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.0_6d11b00877e40cbed622da2a8838f49a727b1444.jar" />
+        sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/slf4j-android-1.6.1-RC1_e4e55953b3bc38a42dc3b92ebc38428fb72cbe57/classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/google-api-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-client-1.20.0_4c7c3516bc2583fd5284a6b7f2b4618b8beebefb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_10b753ab697d13be51b74405080ba3a00abcf6d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.6.2_a4387b51b1ae0519f5e2e6191f041f275180347f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.0.1_32abbc0e16d32bedfd29decbbcfa70456eca5ee3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_66172fb8937575611becdc5f831563f6800b0a1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/gdata-spreadsheet-3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c6cdc5aa2ff9e7b6a3ab9bbfaaa23538caff4a6">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/gdata-spreadsheet-3.0_e82fa32b4552d2b9f439707308b3a7f37dce4a34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/google-api-client-xml-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43feb4efd5e56df75aaff44789bda26d6ff4ba83">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-client-xml-1.20.0_651d0c013e450e028c805c8126ae6d006195f4b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d760873702450418f44d56fcc46e4298b996714d">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eaebe38a9e1858eb35471a145e91e3c6071b62ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/google-api-client-android-1.20.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="05673179575c32b69a474334255c3044adf18d40">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/google-api-client-android-1.20.0_369cbfd4b044f3623a82cd2b4c7847f59cc9c2e0.jar" />
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-client-android-1.20.0_369cbfd4b044f3623a82cd2b4c7847f59cc9c2e0/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/opencsv-2.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c0ffd01065bc3fe571e1a4eb7014a03333f0663d">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/opencsv-2.3_e4d99dfd57ec0c7044a8f8ed4824aaf2c25549fd.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/gdata-core-1.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="6ff0dba2ad4e59fdda638b00d6773f3e48b61e16">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/gdata-core-1.0_73bc8b912b052886369de7fd29e2a0ddea3fef7a.jar" />
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/gdata-core-1.0_73bc8b912b052886369de7fd29e2a0ddea3fef7a/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.1.32/jars/classes.jar"
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/javarosa-libraries-2016-04-21.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="826507592fec9d8e26db18364e709df133c749ce">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-4.1.32_10f46344be122123979eb575f7822c16bcb3be44.jar" />
+        sha1="eaebd8fdad2e537a108bb082562aec74edf85688">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/javarosa-libraries-2016-04-21_0f0fafb8c361dec902dd11745b01b455d75dbd8f/classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/joda-time-2.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e46be514a4ed60bcfbaaba88a3c668cf30476ab">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/joda-time-2.9.3_dcf074dbc297c41ea217967690763aab5343c817/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/httpclientandroidlib-4.5.2-2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="6bfad5db7151fcf1aa4f69a13be181b662ab0dbd">
-        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/pre-dexed/debug/httpclientandroidlib-4.5.2-2_971c94a45464c6958506d02031123c0edf1988b6.jar" />
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclientandroidlib-4.5.2-2_971c94a45464c6958506d02031123c0edf1988b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/google-oauth-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/google-oauth-client-1.20.0_ad69c690c20a13ba8a4171f8d284ffd94dc567af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.0_6d11b00877e40cbed622da2a8838f49a727b1444/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/kxml2-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccbc77a5fd907ef863c29f3596c6f54ffa4e9442">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/kxml2-2.3.0_ba9ffdebc395f6ddfd4253380e333ff4e2989a33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-io-2.4_8a3f631b6cbf5be81b9b4ab2c327402079d1d113/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/guava-11.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="35a3c69e19d72743cac83778aecbee68680f63eb">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/guava-11.0.2_993203c2ee3f795027e848d9a0113eb0dc52c050/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_c7ee2df7f38b463ff4b1847309f62c9ecc8e0124/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/google-http-client-xml-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f0331a9dfc5ea37fe76b8b5a19d00c8aaf5645e">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-xml-1.20.0_3731ce119a3f0122d6920d8441afa22a7d564c4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da71a1c2c182c4da6843e1211d4d75b2e36f6583">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_31b0dd86d96b45f6bccd9e2524d27ac164ae7f8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/google-api-services-drive-v2-rev113-1.17.0-rc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b40f653e45c9cff6b4171c8d78f916ec6fb7e87">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-services-drive-v2-rev113-1.17.0-rc_9846edde0b3621d73bf3d442ec0a4d4b89cb31e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.1.32/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="826507592fec9d8e26db18364e709df133c749ce">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-4.1.32_10f46344be122123979eb575f7822c16bcb3be44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/osmbonuspack_v4.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1c40158d90b10b6532f04dc1857f0d6709ec1e9">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/osmbonuspack_v4.6_90892650d8d1bec1af03500046b556ad2709ca84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/google-http-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-android-1.20.0_25e3398da1b7d1653ca4a973659ad1e2c6f4f78c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/libs/opencsv-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0ffd01065bc3fe571e1a4eb7014a03333f0663d">
+        <dex dex="/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/2/opencsv-2.3_e4d99dfd57ec0c7044a8f8ed4824aaf2c25549fd/classes.dex" />
     </item>
 
 </items>

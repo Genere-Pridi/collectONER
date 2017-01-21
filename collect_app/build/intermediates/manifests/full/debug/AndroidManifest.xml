@@ -15,7 +15,7 @@
 
     <uses-sdk
         android:minSdkVersion="19"
-        android:targetSdkVersion="25" />
+        android:targetSdkVersion="22" />
 
     <uses-feature
         android:name="android.hardware.location"
@@ -32,6 +32,17 @@
     <uses-feature
         android:name="android.hardware.wifi"
         android:required="false" />
+
+    <uses-permission-sdk-23 android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission-sdk-23 android:name="android.permission.INTERNET" />
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission-sdk-23 android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission-sdk-23 android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission-sdk-23 android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission-sdk-23 android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
@@ -72,9 +83,9 @@
 
     <application
         android:name="org.odk.collect.android.application.Collect"
-        android:icon="@drawable/notes"
+        android:icon="@drawable/onerlogo"
         android:installLocation="auto"
-        android:label="@string/app_name"
+        android:label="@string/name_app"
         android:largeHeap="true"
         android:supportsRtl="true"
         android:theme="@style/Collect" >
@@ -233,8 +244,7 @@
         <activity
             android:name="org.odk.collect.android.activities.SplashScreenActivity"
             android:label="@string/app_name"
-            android:theme="@android:style/Theme.Dialog" >
-        </activity>
+            android:theme="@android:style/Theme.Dialog" />
         <!-- Enable Shortcuts for Command Actions -->
         <activity
             android:name="org.odk.collect.android.activities.AndroidShortcuts"
@@ -272,6 +282,11 @@
         <activity
             android:name="org.odk.collect.android.login.Login"
             android:label="@string/title_activity_login"
+            android:theme="@android:style/Theme.Holo.NoActionBar" >
+        </activity>
+        <activity
+            android:name="org.odk.collect.android.login.AccueilSplashScreen"
+            android:label="@string/name_app"
             android:theme="@android:style/Theme.Holo.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

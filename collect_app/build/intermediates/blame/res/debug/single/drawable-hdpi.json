@@ -16,12 +16,12 @@
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-hdpi/ic_layers_black_36dp.png"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_manage.png",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-hdpi/ic_menu_manage.png"
-    },
-    {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_text_normal_dark.9.png",
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.1.32/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_manage.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-hdpi/ic_menu_manage.png"
     },
     {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_mark.png",
@@ -208,12 +208,12 @@
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.1.32/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-hdpi/ic_perm_identity.png",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-hdpi/ic_perm_identity.png"
-    },
-    {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-hdpi/ic_save_black_36dp.png",
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-hdpi/ic_save_black_36dp.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-hdpi/ic_perm_identity.png",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable-hdpi/ic_perm_identity.png"
     },
     {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable-hdpi/onerlogo.png",
