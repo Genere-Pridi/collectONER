@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable/fondoredondo.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable/fondoredondo.xml"
+    },
+    {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.1.32/res/drawable/common_signin_btn_text_dark.xml"
     },
@@ -10,6 +14,14 @@
     {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable/ic_menu_forward.png",
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable/ic_menu_forward.png"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable/circular.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable/circular.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable/imalist.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/drawable/imalist.xml"
     },
     {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",

@@ -1,7 +1,7 @@
-#Sat Jan 21 15:49:46 GMT 2017
-base.0=/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_31b0dd86d96b45f6bccd9e2524d27ac164ae7f8e
+#Tue Jan 24 00:26:23 GMT 2017
+base.0=/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.1=classes2.dex
 renamed.0=classes.dex
-file.1=/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eaebe38a9e1858eb35471a145e91e3c6071b62ad/classes.dex
-base.1=/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eaebe38a9e1858eb35471a145e91e3c6071b62ad
-file.0=/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_31b0dd86d96b45f6bccd9e2524d27ac164ae7f8e/classes.dex
+file.1=/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes2.dex
+base.1=/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+file.0=/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

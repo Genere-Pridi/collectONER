@@ -2,6 +2,7 @@ package org.odk.collect.android.login;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.graphics.Color;
 import android.graphics.PixelFormat;
 import android.graphics.PorterDuff;
 import android.os.Bundle;
@@ -9,85 +10,78 @@ import android.view.View;
 import android.view.Window;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
+import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
+import android.widget.TextView;
 
 import org.odk.collect.android.R;
+import org.odk.collect.android.widgets.ImageWebViewWidget;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
 public class AccueilSplashScreen extends Activity {
 
     ProgressBar progressBar;
-    CircleImageView circleImageView;
+    TextView title;
+    ImageView circleImageView;
     Thread splashTread;
     int barProgress =0;
 
-    public void onAttachedToWindow() {
+    /*public void onAttachedToWindow() {
         super.onAttachedToWindow();
         Window window = getWindow();
         window.setFormat(PixelFormat.RGBA_8888);
-    }
+    }*/
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_accueil_splash_screen);
 
-
-        StartAnimations();
-        int i=0;
-        while(i<100){
-
-            if(i%2 ==0){
-                progressBar.getIndeterminateDrawable().setColorFilter(0xFF41A451, android.graphics.PorterDuff.Mode.MULTIPLY);
-            }else
-                progressBar.getIndeterminateDrawable().setColorFilter(0xFF41A451, PorterDuff.Mode.ADD);
-            progressBar.setProgress(i);
-            i++;
-
-        }
+       StartAnimations();
 
     }
 
     private void StartAnimations(){
 
-        Animation anim = AnimationUtils.loadAnimation(this, R.anim.alpha);
+       Animation anim = AnimationUtils.loadAnimation(this, R.anim.alpha);
+        Animation anim2 = AnimationUtils.loadAnimation(this, R.anim.alpha);
         anim.reset();
+        anim2.reset();
 
         RelativeLayout rel = (RelativeLayout)findViewById(R.id.activity_accueil_splash_screen);
         rel.clearAnimation();
         rel.startAnimation(anim);
 
         anim = AnimationUtils.loadAnimation(this, R.anim.translate);
+        anim2 = AnimationUtils.loadAnimation(this, R.anim.translatetitle);
         anim.reset();
+        anim2.reset();
 
-        circleImageView = (CircleImageView)findViewById(R.id.logo);
-        progressBar =(ProgressBar)findViewById(R.id.progressBar);
+        circleImageView = (ImageView)findViewById(R.id.logo);
+        progressBar =(ProgressBar)findViewById(R.id.progressBar1);
+        title = (TextView)findViewById(R.id.titre);
+        title.clearAnimation();
         progressBar.clearAnimation();
         circleImageView.clearAnimation();
         circleImageView.startAnimation(anim);
+        title.startAnimation(anim);
         progressBar.startAnimation(anim);
-        progressBar.setVisibility(View.VISIBLE);
-        progressBar.setProgress(barProgress);
-
         splashTread = new Thread(){
             @Override
             public void run() {
                 try {
                     int waited = 0;
                     // Splash screen pause time
-                    while (waited < 5500) {
+                    while (waited < 7500 ) {
                         sleep(100);
-                        waited += 100;
-                        barProgress++;
-                        progressBar.setProgress(barProgress);
-
+                        waited+=100;
                     }
-                    barProgress=0;
                     Intent intent = new Intent(AccueilSplashScreen.this,
                             Login.class);
                     intent.setFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
                     startActivity(intent);
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
                     AccueilSplashScreen.this.finish();
                 } catch (InterruptedException e) {
                     // do nothing

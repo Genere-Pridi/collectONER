@@ -414,5 +414,6 @@
     <string name="identifiant">identifiant</string>
     <string name="forpassan">**********</string>
     <string name="title_activity_accueil_splash_screen">AccueilSplashScreen</string>
-    <string name="name_app">ONER</string>
+    <string name="onerProject">ONER</string>
+    <string name="oner">Observatoire National de l\'Emploi Rural</string>
 </resources>

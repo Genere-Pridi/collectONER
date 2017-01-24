@@ -11,21 +11,44 @@
     android:background="@color/onerWhite"
     tools:context="org.odk.collect.android.login.AccueilSplashScreen">
 
-    <de.hdodenhof.circleimageview.CircleImageView
-        android:id="@+id/logo"
+    <FrameLayout
+        android:id="@+id/frame_layout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/onerlogo"
         android:layout_centerHorizontal="true"
-        android:elevation="8dp" />
+        android:layout_centerVertical="true">
 
-    <ProgressBar
-        android:id="@+id/progressBar"
+        <ProgressBar
+            android:id="@+id/progressBar1"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="280dp"
+            android:layout_height="280dp"
+            android:indeterminateDrawable="@drawable/circular"
+            android:padding="30dp"
+            android:clickable="false" />
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/imalist"
+            android:layout_gravity="center"
+            android:clickable="false"/>
+
+    </FrameLayout>
+
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:theme="@android:style/Widget.Holo.Light.ProgressBar"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="21dp" />
+        android:id="@+id/titre"
+        android:text="@string/oner"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="@color/onerGreen"
+        android:layout_marginBottom="12dp"
+        android:layout_above="@+id/frame_layout"
+        android:layout_centerHorizontal="true" />
+
 
 </RelativeLayout>

@@ -85,7 +85,7 @@
         android:name=".application.Collect"
         android:icon="@drawable/onerlogo"
         android:installLocation="auto"
-        android:label="@string/app_nom"
+        android:label="@string/onerProject"
         android:largeHeap="true"
         android:supportsRtl="true"
         android:theme="@style/Collect">
@@ -288,7 +288,7 @@
         </activity>
         <activity
             android:name=".login.AccueilSplashScreen"
-            android:label="@string/app_nom"
+            android:label="@string/onerProject"
             android:theme="@android:style/Theme.Holo.NoActionBar">
 
             <intent-filter>
