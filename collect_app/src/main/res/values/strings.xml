@@ -416,4 +416,5 @@
     <string name="title_activity_accueil_splash_screen">AccueilSplashScreen</string>
     <string name="onerProject">ONER</string>
     <string name="oner">Observatoire National de l\'Emploi Rural</string>
+    <string name="logosplash">logosplash</string>
 </resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <attr format="reference" name="snackbarBuilderStyle"/>
+    <attr format="reference" name="toastBuilderStyle"/>
+    <color name="snackbarbuilder_default_message">@android:color/white</color>
+    <declare-styleable name="SnackbarBuilderStyle"><attr format="color" name="snackbarBuilder_messageTextColor"/><attr format="color" name="snackbarBuilder_actionTextColor"/><attr format="color" name="snackbarBuilder_backgroundColor"/><attr format="reference" name="snackbarBuilder_parentViewId"/><attr format="integer" name="snackbarBuilder_duration">
+      <enum name="longTime" value="0"/>
+      <enum name="shortTime" value="-1"/>
+      <enum name="indefinite" value="-2"/>
+    </attr><attr name="colorAccent"/></declare-styleable>
+    <declare-styleable name="ToastBuilderStyle"><attr format="color" name="toastBuilder_messageTextColor"/><attr name="toastBuilder_duration">
+      <enum name="shortTime" value="0"/>
+      <enum name="longTime" value="1"/>
+    </attr></declare-styleable>
+    <dimen name="snackbarbuilder_icon_margin_end_default">8dp</dimen>
+    <dimen name="snackbarbuilder_icon_margin_start_default">12dp</dimen>
+    <item name="snackbarbuilder_icon" type="id"/>
+    <string name="snackbarbuilder_action_undo" ns1:ignore="UnusedResources">Undo</string>
+    <style name="SnackbarBuilder">
+    <item name="snackbarBuilder_actionTextColor">?colorAccent</item>
+    <item name="snackbarBuilder_messageTextColor">@color/snackbarbuilder_default_message</item>
+    <item name="snackbarBuilder_duration">longTime</item>
+  </style>
+    <style name="TestSnackbarBuilderStyle" parent="SnackbarBuilder" ns1:ignore="UnusedResources">
+    <item name="snackbarBuilder_actionTextColor">#454545</item>
+    <item name="snackbarBuilder_messageTextColor">#987654</item>
+    <item name="snackbarBuilder_parentViewId">@id/snackbarbuilder_icon</item>
+    <item name="snackbarBuilder_duration">indefinite</item>
+    <item name="snackbarBuilder_backgroundColor">#999999</item>
+  </style>
+    <style name="TestSnackbarBuilder_AppTheme" parent="Theme.AppCompat.Light.DarkActionBar" ns1:ignore="UnusedResources">
+    <item name="colorPrimary">#3F51B5</item>
+    <item name="colorPrimaryDark">#303F9F</item>
+    <item name="colorAccent">#FF4081</item>
+  </style>
+    <style name="TestSnackbarBuilder_CustomTheme" ns1:ignore="UnusedResources">
+    <item name="snackbarBuilderStyle">@style/TestSnackbarBuilderStyle</item>
+    <item name="toastBuilderStyle">@style/TestToastBuilderStyle</item>
+  </style>
+    <style name="TestSnackbarBuilder_FallbackTheme" ns1:ignore="UnusedResources">
+    <item name="colorAccent">#232323</item>
+  </style>
+    <style name="TestToastBuilderStyle" parent="ToastBuilder" ns1:ignore="UnusedResources">
+    <item name="toastBuilder_messageTextColor">#123456</item>
+    <item name="toastBuilder_duration">shortTime</item>
+  </style>
+    <style name="ToastBuilder">
+    <item name="toastBuilder_duration">longTime</item>
+  </style>
+</resources>

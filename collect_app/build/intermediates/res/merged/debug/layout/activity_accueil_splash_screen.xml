@@ -33,7 +33,8 @@
             android:layout_height="wrap_content"
             android:background="@drawable/imalist"
             android:layout_gravity="center"
-            android:clickable="false"/>
+            android:clickable="false"
+            android:contentDescription="@string/logosplash" />
 
     </FrameLayout>
 

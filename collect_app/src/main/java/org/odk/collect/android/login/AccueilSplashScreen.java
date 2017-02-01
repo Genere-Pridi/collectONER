@@ -2,12 +2,8 @@ package org.odk.collect.android.login;
 
 import android.app.Activity;
 import android.content.Intent;
-import android.graphics.Color;
-import android.graphics.PixelFormat;
-import android.graphics.PorterDuff;
+import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.view.View;
-import android.view.Window;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
@@ -16,23 +12,15 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import org.odk.collect.android.R;
-import org.odk.collect.android.widgets.ImageWebViewWidget;
-
-import de.hdodenhof.circleimageview.CircleImageView;
 
 public class AccueilSplashScreen extends Activity {
 
-    ProgressBar progressBar;
-    TextView title;
-    ImageView circleImageView;
-    Thread splashTread;
-    int barProgress =0;
+    private ProgressBar progressBar;
+    private TextView title;
+    private ImageView circleImageView;
+    private Thread splashTread;
+    private  int barProgress =0;
 
-    /*public void onAttachedToWindow() {
-        super.onAttachedToWindow();
-        Window window = getWindow();
-        window.setFormat(PixelFormat.RGBA_8888);
-    }*/
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -94,5 +82,7 @@ public class AccueilSplashScreen extends Activity {
         splashTread.start();
 
     }
+
+
 
 }

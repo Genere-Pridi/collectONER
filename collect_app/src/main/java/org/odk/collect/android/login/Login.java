@@ -1,30 +1,28 @@
 package org.odk.collect.android.login;
 
 import android.app.Activity;
-import android.app.ActivityOptions;
 import android.app.ProgressDialog;
+import android.content.Context;
 import android.content.Intent;
-import android.database.Cursor;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
-import android.widget.ProgressBar;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
-import com.loopj.android.http.JsonHttpResponseHandler;
 import com.loopj.android.http.RequestParams;
+import com.securepreferences.SecurePreferences;
 
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.odk.collect.android.R;
 import org.odk.collect.android.activities.MainMenuActivity;
-
-import java.io.UnsupportedEncodingException;
 
 import cz.msebera.android.httpclient.Header;
 
@@ -43,10 +41,14 @@ public class Login extends Activity {
 
 
     //Pour l'accès à la base
-    private UserDB myDB;
+    //private UserDB myDB;
     //URL du serveur
     private final String URL_SERVER = "http://genereservicescout.alwaysdata.net/projetoner/getUser.php";
     private final String SECRET ="!projet@onerbydevcorp";
+    private SharedPreferences sharedPreferences;
+    protected static final String MyPREFERENCES = "MyPrefs" ;
+    protected static final String loginkey = "LoginKey";
+    protected static final String passwordkey = "passwordKey";
 
 
     @Override
@@ -54,7 +56,7 @@ public class Login extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        myDB = new UserDB(this);
+        //myDB = new UserDB(this);
 
         _identifiant = (TextView)findViewById(R.id.input_user);
         _password = (TextView)findViewById(R.id.input_password);
@@ -63,7 +65,7 @@ public class Login extends Activity {
         progressDialog.setMessage("Connexion en cours ...");
         progressDialog.setIndeterminate(false);
         connexion = new ConnexionDetecteur(this);
-
+        sharedPreferences = new SecurePreferences(getBaseContext(), "userpassword", MyPREFERENCES+".xml");
 
 
         _connexionButton.setOnClickListener(connexionListener);
@@ -95,24 +97,27 @@ public class Login extends Activity {
 
     //connexion à l'application
     public void connect(){
-        myDB.open();
+        //myDB.open();
 
-        Cursor cursor = myDB.getUser(login, password);
-        cursor.moveToNext();
+        /*Cursor cursor = myDB.getUser(login, password);
+        cursor.moveToNext();*/
         try {
 
-            if (cursor.getCount() > 0) {
+            if ((sharedPreferences.contains(loginkey) && sharedPreferences.contains(passwordkey))
+                    &&(sharedPreferences.getString(loginkey,"").equals(_identifiant.toString())
+                    && sharedPreferences.getString(passwordkey,"").equals(_password.toString()))) {
                 progressDialog.dismiss();
                 String prenom , nom ;
 
-                prenom = cursor.getString(cursor.getColumnIndex("nom"));
-                nom = cursor.getString(cursor.getColumnIndex("prenom"));
+
+                prenom = sharedPreferences.getString("firstnamekey","");//cursor.getString(cursor.getColumnIndex("nom"));
+                nom = sharedPreferences.getString("lastnamekey","");//cursor.getString(cursor.getColumnIndex("prenom"));
 
                 System.out.println("Prénom: "+prenom+" Nom: "+nom);
                 Intent intent = new Intent(Login.this, MainMenuActivity.class);
                 intent.putExtra("Prenom", prenom);
                 intent.putExtra("Nom", nom);
-                myDB.close();
+                //myDB.close();
                 startActivity(intent);
                 Login.this.finish();
 
@@ -148,7 +153,7 @@ public class Login extends Activity {
             @Override
             public void onFailure(int statusCode, Header[] headers, byte[] responseBody, Throwable error) {
                 progressDialog.dismiss();
-                myDB.close();
+                //myDB.close();
                 if (statusCode == 404) {
                     Toast.makeText(getApplicationContext(),
                             "Ressource non trouvée", Toast.LENGTH_LONG)
@@ -170,41 +175,35 @@ public class Login extends Activity {
             public void onSuccess(int statusCode, Header[] headers, byte[] responseBody) {
                 try {
                     String response = new String(responseBody);
-                    /*Log.e("lA RÉPONSE",response);
-                    Log.i(response,"reponseJSON");*/
                     JSONObject repons = new JSONObject(response);
                     JSONArray user = repons.getJSONArray("result");
                     if(user.length() <1){
                         Toast.makeText(Login.this,"La connexion est rejetée, login ou password incorrect...",Toast.LENGTH_LONG).show();
                         progressDialog.dismiss();
                     }else{
-                        for(int i=0;i<user.length();i++){
-                                User u = new User(
-                                        user.getJSONObject(i).getString("prenom"),
-                                        user.getJSONObject(i).getString("nom"),
-                                        user.getJSONObject(i).getString("login"),
-                                        user.getJSONObject(i).getString("password"),
-                                        user.getJSONObject(i).getInt("age")
-                                );
-                                myDB.addUser(u);
-                                progressDialog.dismiss();
-                                Toast.makeText(getApplicationContext(),
-                                        "Connexion réussie",
-                                        Toast.LENGTH_SHORT).show();
-                                Intent intent = new Intent(Login.this, MainMenuActivity.class);
-                                intent.putExtra("Prenom", user.getJSONObject(i).getString("prenom"));
-                                intent.putExtra("Nom", user.getJSONObject(i).getString("nom"));
-                                myDB.close();
-                                startActivity(intent);
-                                Login.this.finish();
+                        SharedPreferences.Editor editor = sharedPreferences.edit();
 
+                        for(int i=0;i<user.length();i++){
+                            editor.putString("firstnamekey",user.getJSONObject(i).getString("prenom"));
+                            editor.putString("lastnamekey",user.getJSONObject(i).getString("nom"));
+                            editor.putString(loginkey,user.getJSONObject(i).getString("login"));
+                            editor.putString(passwordkey,user.getJSONObject(i).getString("password"));
+                            editor.putString("age",user.getJSONObject(i).getString("age"));
+                            editor.commit();
+                            //myDB.addUser(u);
+                            progressDialog.dismiss();
+                            Toast.makeText(getApplicationContext(),
+                                    "Connexion réussie",
+                                    Toast.LENGTH_SHORT).show();
+                            Intent intent = new Intent(Login.this, MainMenuActivity.class);
+                            intent.putExtra("Prenom", user.getJSONObject(i).getString("prenom"));
+                            intent.putExtra("Nom", user.getJSONObject(i).getString("nom"));
+                            //myDB.close();
+                            startActivity(intent);
+                            Login.this.finish();
 
                         }
                     }
-                    progressDialog.dismiss();
-                    Toast.makeText(getApplicationContext(),
-                            "Connexion réussie",
-                            Toast.LENGTH_SHORT).show();
                 }catch(JSONException e){
                     e.printStackTrace();
                     Log.e(">>>>>>>>> ","Erreur du traitement de la réponse");
@@ -214,6 +213,7 @@ public class Login extends Activity {
         });
 
     }
+
 
 
 }

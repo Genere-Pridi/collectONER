@@ -1,7 +1,15 @@
 [
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/splash_screen.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/splash_screen.xml"
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/list_view_filled.xml",
@@ -12,6 +20,18 @@
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/password_dialog_layout.xml"
     },
     {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_media_action.xml"
+    },
+    {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/form_manage_list.xml",
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/form_manage_list.xml"
     },
@@ -20,52 +40,48 @@
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/geoshape_zoom_dialog.xml"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/geopoint_layout.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/geopoint_layout.xml"
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_lines_media.xml"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/geotrace_dialog.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/geotrace_dialog.xml"
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/geotrace_osm_layout.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/geotrace_osm_layout.xml"
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_subheader.xml"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/polygon_polyline_dialog.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/polygon_polyline_dialog.xml"
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/drive_row.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/drive_row.xml"
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/notification_layout.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/notification_layout.xml"
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_simple.xml"
     },
     {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/remote_file_manage_list.xml",
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/remote_file_manage_list.xml"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/hierarchy_layout.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/hierarchy_layout.xml"
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/activity_login.xml",
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/activity_login.xml"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/two_item_multiple_choice.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/two_item_multiple_choice.xml"
-    },
-    {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/chooser_list_layout.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/chooser_list_layout.xml"
-    },
-    {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/geopoint_osm_layout.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/geopoint_osm_layout.xml"
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_text_input_password_icon.xml"
     },
     {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/form_entry.xml",
@@ -80,8 +96,196 @@
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/main_menu.xml"
     },
     {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/geotrace_google_layout.xml",
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/geotrace_google_layout.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/activity_open_source_licenses.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/activity_open_source_licenses.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/server_auth_dialog.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/server_auth_dialog.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/two_item.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/two_item.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/two_item_image.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/two_item_image.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/geoshape_google_layout.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/geoshape_google_layout.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/geopoint_zoom_dialog.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/geopoint_zoom_dialog.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/splash_screen.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/splash_screen.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/geopoint_layout.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/geopoint_layout.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/geotrace_dialog.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/geotrace_dialog.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/geotrace_osm_layout.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/geotrace_osm_layout.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/polygon_polyline_dialog.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/polygon_polyline_dialog.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/drive_row.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/drive_row.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/notification_layout.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/notification_layout.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/hierarchy_layout.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/hierarchy_layout.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/two_item_multiple_choice.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/two_item_multiple_choice.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/chooser_list_layout.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/chooser_list_layout.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/geopoint_osm_layout.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/geopoint_osm_layout.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/quick_select_layout.xml",
@@ -96,51 +300,83 @@
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/data_manage_list.xml"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/activity_accueil_splash_screen.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/activity_accueil_splash_screen.xml"
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/activity_open_source_licenses.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/activity_open_source_licenses.xml"
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/activity_accueil_splash_screen.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/activity_accueil_splash_screen.xml"
     },
     {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/draw_layout.xml",
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/draw_layout.xml"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/server_auth_dialog.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/server_auth_dialog.xml"
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_header.xml"
     },
     {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/drive_layout.xml",
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/drive_layout.xml"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/two_item.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/two_item.xml"
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/two_item_image.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/two_item_image.xml"
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_snackbar.xml"
     },
     {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/custom_spinner_item.xml",
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/custom_spinner_item.xml"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/geoshape_google_layout.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/geoshape_google_layout.xml"
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/toast_view.xml",
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/toast_view.xml"
     },
     {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item.xml"
+    },
+    {
         "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/form_entry_end.xml",
         "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/form_entry_end.xml"
     },
     {
-        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/geopoint_zoom_dialog.xml",
-        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/src/main/res/layout/geopoint_zoom_dialog.xml"
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_tab_text.xml"
     }
 ]

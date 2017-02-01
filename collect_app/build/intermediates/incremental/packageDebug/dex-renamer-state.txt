@@ -1,4 +1,4 @@
-#Tue Jan 24 00:26:23 GMT 2017
+#Wed Feb 01 18:40:09 GMT 2017
 base.0=/home/generepridi/Documents/ONERmobile/collect-master/collect_app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.1=classes2.dex
 renamed.0=classes.dex
